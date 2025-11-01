@@ -8,13 +8,13 @@ sass:
 theme: jekyll-theme-primer
 
 github:
-  private: false
+  private: true
   license:
     name: MIT
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: ""
   
 title: Jorge Serrano Molina
 description: Ese soy yo
