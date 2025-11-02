@@ -4,6 +4,26 @@
 @import "jekyll-theme-primer";
 
 body {
-    color: #999;
+    color: #bbb;
     background-color: #000;
+    font: 400 15px / 1.5 "Roboto", "Helvetica Neue", -apple-system, sans-serif;
+    line-height:1.25;
+}
+
+.markdown-body h1 {
+    padding-bottom: 0.3em;
+    font-size: 18px;
+    border-bottom: none;
+    font-weight: 700;
+}
+
+a {
+    color: #bbb !important;
+}
+
+.markdown-body h2 {
+    padding-bottom: 0.3em;
+    font-size: 18px;
+    border-bottom: none;
+    font-weight: 700;
 }
