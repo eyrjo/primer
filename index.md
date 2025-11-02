@@ -16,6 +16,7 @@ Antes de eso, estudié periodismo, pero nunca lo ejercí. Preferí trabajar en e
 - [Asuntos Propios](https://blog.yrjo.eu): intento de bitácora personal para hablar de todo y de nada.
 - [Memorias airadas](https://archivo.yrjo.eu): archivo de artículos escritos en otras vidas.
 
-## Contacto
+## Contacto 
 
 {%- include contacto.html -%}
+
