@@ -17,4 +17,5 @@ Antes de eso, estudié periodismo, pero nunca lo ejercí. Preferí trabajar en e
 - [Memorias airadas](https://archivo.yrjo.eu): archivo de artículos escritos en otras vidas.
 
 ## Contacto
-<div>{%- include contacto.html -%}</div>
+
+{%- include contacto.html -%}
