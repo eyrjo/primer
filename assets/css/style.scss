@@ -8,7 +8,7 @@ body {
     background-color: #181818;
     font: 400 15px / 1.5 "Roboto", "Helvetica Neue", -apple-system, sans-serif;
     line-height:1.25;
-    margin: 3rem 2rem 1rem 2rem;
+    margin: 4rem 2rem 1rem 2rem;
 }
 
 .markdown-body h1 {
@@ -39,15 +39,19 @@ a:hover {
 
 .contacto-includes {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
     align-content: center;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     margin-left: 10px;
-    gap: .25rem;
+    gap: .5rem;
 }
 
 .material-symbols-outlined {
     margin-right:10px;
+}
+
+.fa-brands .fa-instagram .fa-lg {
+     margin-right:10px;
 }
