@@ -52,8 +52,8 @@ a:hover {
     margin-right:10px;
 }
 
-span.material-symbols-outlined:hover {
-  text-decoration: none;
+a > span.material-symbols-outlined:hover {
+  text-decoration: none !important;
 }
 
 .fa-brands .fa-instagram {
