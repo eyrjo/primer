@@ -63,4 +63,25 @@ a .material-symbols-outlined {
      margin-right:10px;
 }
 
+.contacto-includes a {
+  display: flex;           /* keep your flex layout */
+  align-items: center;
+  text-decoration: none;   /* remove default underline on the whole anchor */
+}
+
+.contacto-includes .link-text {
+  text-decoration: underline; /* underline only the visible link text */
+  /* preserve link color/hover behavior as needed */
+}
+
+.contacto-includes .link-text:hover {
+  text-decoration: underline;
+}
+
+.contacto-includes .material-symbols-outlined {
+  text-decoration: none;   /* ensure no underline on the icon */
+  display: inline-flex;    /* keep icon layout stable inside flex */
+  align-items: center;
+  vertical-align: middle;
+}
 
