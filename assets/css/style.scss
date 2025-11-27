@@ -62,11 +62,6 @@ a:hover {
   text-decoration: none;   /* remove default underline on the whole anchor */
 }
 
-.contacto-includes .link-text {
-  text-decoration: underline; /* underline only the visible link text */
-  /* preserve link color/hover behavior as needed */
-}
-
 .contacto-includes .link-text:hover {
   text-decoration: underline;
 }
